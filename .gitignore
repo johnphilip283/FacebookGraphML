@@ -1,3 +1,5 @@
 .idea/*
 venv/
+src/config.py
+src/huge_network.txt
 
